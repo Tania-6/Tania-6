@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-
 <!--
 **Tania-6/Tania-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +35,11 @@ I’m a Computer Programming & Analysis student at St. Lawrence College and an a
 I’m most drawn to the design side of web development, but I also enjoy working on the backend and understanding how everything connects. I’m organized, efficient, and detail-oriented.
 
 I’m a quick learner and I’m not afraid to ask questions. I believe that curiosity and clear communication lead to the best results!
+
+---
+
+## About Me
+
+- 🖥️ 2nd year Computer Programming & Analysis student
+- 🎮 Hobbies: Music, Games, Animals
+- 🌱 Always ready to learn and grow
