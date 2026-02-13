@@ -83,4 +83,9 @@ A full-stack web application built with React, Node.js, Express, and MongoDB tha
 - Compares match histories to identify shared games between players.  
 - Handles asynchronous requests and processes data efficiently to provide fast results.
 
+---
+
+## 📚 School GitHub
+Some of my in-progress and class projects can also be found on my school GitHub account: [T-Smash](https://github.com/T-Smash)
+
 
